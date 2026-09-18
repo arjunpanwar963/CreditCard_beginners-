@@ -1,11 +1,11 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO & HEADER -->
-<br />
+<!-- <br />
 <div align="center">
   <a href="https://github.com/your_username/repo_name">
     <img src="https://via.placeholder.com/150" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">Project Name</h3>
 
